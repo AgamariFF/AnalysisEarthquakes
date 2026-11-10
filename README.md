@@ -142,7 +142,7 @@ log₁₀ N = a - bM
 ## 🔗 Ссылки
 
 - [📊 Датасет на Kaggle](https://www.kaggle.com/datasets/darkmatternet/global-earthquake-history-1m-since-1900)
-- [📁 Презентация проекта](./presentation/Analiz-sejsmicheskoj-aktivnosti.pptx [Analiz-sejsmicheskoj-aktivnosti.pptx])
+- [📁 Презентация проекта](./presentation/Analiz-sejsmicheskoj-aktivnosti.pptx)
 - [🔬 Детальный анализ кода](./project_analysis.md)
 - [🌐 Samsung Innovation Campus](https://innovationcampus.ru/)
 
