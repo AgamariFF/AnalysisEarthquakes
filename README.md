@@ -75,7 +75,9 @@ AnalysisEarthquakes/
 │   ├── analysis_and_forecast_number_strong_earthquakes.py
 │   └── Forecast_proportion_earthquakes_magnitude_Russia.py
 └── presentation/
-    └── presentation_summary.md                  # Результаты презентации
+    ├── Analiz-sejsmicheskoj-aktivnosti.pptx
+    ├── presentation_summary.md
+    └── presentation_text.md                  # Результаты презентации
 ```
 
 ---
